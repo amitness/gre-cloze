@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <title>GRE Cloze Options</title>
+    <link rel="stylesheet" type="text/css" href="css/common.min.css">
+    <link rel="stylesheet" type="text/css" href="css/options.min.css">
+
+  </head>
+  <body>
+    <div id="content">
+      <div id="title">
+        <div>GRE Cloze Options</div>
+      </div>
+      <form name="options-form" action="">
+        <div class="option-row">
+          <div class="option-name">Selected Word List</div>
+          <div class="option-value">
+            <div class="option-value-primary">
+              <select id="vocabulary-selector">
+                <option value="magoosh">Magoosh's 1000 GRE Words</option>
+                <!-- <option value="quizlet">Connect with my Quizlet</option> -->
+              </select>
+            </div>
+          </div>
+
+        </div>
+        <div class="btn-row">
+          <button id="save-btn" class="btn btn-primary" >Save</button>
+
+          <span id="save-status" style="transition: opacity 0.4s ease-out 0s; opacity: 0;" >Options saved</span>
+        </div>
+      </form>
+    </div>
+    <div class="footer">
+      &copy; <span id="year"></span> W9G
+      <a target="_blank" href="https://github.com/amitness/gre-cloze">Github</a>
+      <a target="_blank" href="mailto:meamitkc@gmail.com">Email</a>
+    </div>
+
+
+
+<script src="options.js"></script>
+</body>
+</html>

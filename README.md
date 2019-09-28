@@ -22,17 +22,14 @@ $ git clone https://github.com/amitness/gre-cloze
   <img src="images/screenshots/economist_article_example.png" width="664"/>
 </p>
 
-![]()
-
 2. Guess the word based on the surrounding context. To check if you were right, hover over the yellow blank. The actual word will be revealed.  
 <p align="center">
   <img src="images/screenshots/yellow_highlight_hover.png" width="493"/>
 </p>
 
 
-3. To check the definition of the word, you can click on the key icon. This will take you to the word definition on the vocabulary.com page.  
+3. To check the definition of the word, you can click on the key icon. This will open the word definition on vocabulary.com in a new tab.  
 <p align="center">
   <img src="images/screenshots/vocabulary_define.png"/>
+  <img src="images/screenshots/vocabulary_com_page.png" width="265"/>
 </p>
-
-

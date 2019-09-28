@@ -1,5 +1,8 @@
 # gre-cloze
-Guess GRE vocabulary as you browse news on [economist.com](https://www.economist.com).
+Guess GRE vocabulary as you browse news on [economist.com](https://www.economist.com).  
+<p align="center">
+<img src="https://i.imgur.com/V9hoxIj.gif)"/>
+</p>
 
 This extension is a modification of [VocabularyHighlighter](https://github.com/jn8029/VocabularyHighlighter) by [jn8029](https://github.com/jn8029).
 

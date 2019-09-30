@@ -1,5 +1,5 @@
 # gre-cloze
-Guess GRE vocabulary as you browse news on [economist.com](https://www.economist.com).  
+Guess GRE vocabulary as you browse news on [economist.com](https://www.economist.com) and [newyorker.com](http://newyorker.com).  
 <p align="center">
 <img src="https://i.imgur.com/V9hoxIj.gif)"/>
 </p>

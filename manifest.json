@@ -11,7 +11,8 @@
   "content_scripts": [
         {
         "matches": ["*://*.economist.com/*",
-                    "*://*.newyorker.com/*"],
+                    "*://*.newyorker.com/*",
+                    "*://*.theatlantic.com/*"],
         "js": ["wordlist.js","content.js"],
         "run_at": "document_end",
         "css" : ["css/highlighter.css"]

@@ -12,7 +12,8 @@
         {
         "matches": ["*://*.economist.com/*",
                     "*://*.newyorker.com/*",
-                    "*://*.theatlantic.com/*"],
+                    "*://*.theatlantic.com/*",
+                    "*://*.scientificamerican.com/*"],
         "js": ["wordlist.js","content.js"],
         "run_at": "document_end",
         "css" : ["css/highlighter.css"]
